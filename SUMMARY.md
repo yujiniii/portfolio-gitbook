@@ -1,6 +1,6 @@
 # Table of contents
 
-* [HOME](README.md)
+* [README.md](README.md)
 
 ## 🏢 EJN
 
