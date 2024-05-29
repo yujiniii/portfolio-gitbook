@@ -1,8 +1,10 @@
 # Table of contents
 
+* [HOME](README.md)
+
 ## 🏢 EJN
 
-* [Baily 앱 서비스의 푸시 알림 기능 개발](README.md)
+* [Baily 앱 서비스의 푸시 알림 기능 개발](<README (1).md>)
 * [EZ TWIP 개발](ejn/ez-twip.md)
 * [TWIP 멜로디보이스](ejn/twip.md)
 * [TWIP 운영업무](ejn/twip-1.md)
@@ -14,3 +16,8 @@
 
 * [morning-letter: 매일 아침 리포트](side-project/morning-letter.md)
 * [달대표: 우리 동네 배달 대표](side-project/undefined.md)
+
+***
+
+* [blog](https://yujiniii.github.io)
+* [github](https://github.com/yujiniii)
