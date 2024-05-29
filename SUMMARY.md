@@ -21,3 +21,4 @@
 
 * [blog](https://yujiniii.github.io)
 * [github](https://github.com/yujiniii)
+* [linkedin](https://www.linkedin.com/in/yujiniii-a3376724a)
