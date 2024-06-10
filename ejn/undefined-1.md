@@ -20,12 +20,10 @@ description: 2023 . 06 - 2023 . 10
 
 ### 개발환경
 
-* **Backend**
-  * NestJS
-  * Sequelize
-  * mySQL, Redis
-  * php
-  * socket
+* NestJS
+* Sequelize
+* mySQL, Redis
+* socket
 
 
 
