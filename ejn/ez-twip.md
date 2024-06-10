@@ -12,8 +12,18 @@ description: 2024 . 03 - 2024 . 04
 
 ### 개발환경
 
-* **Backend**
-  * NestJS
-  * Sequelize
-  * mySQL, Redis
+* NestJS
+* Sequelize
+* mySQL, Redis
+* Youtube livechat api
+* NestJS Cron
+* Jest
+
+
+
+### 경험
+
+### 성과
+
+출시 이후 1달동안 50만원, 후원 건수 100건 돌파
 
