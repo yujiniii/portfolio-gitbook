@@ -23,12 +23,11 @@ VOD를 제외하고 클립 기능을 확대, 개선하여 TWIP CLIP서비스로 
 
 ### 개발환경
 
-* **Backend**
-  * NestJS
-  * Sequelize
-  * MariaDB, Redis
-  * Cloudflare R2
-  * ffmpeg
+* NestJS
+* Sequelize
+* MariaDB, Redis
+* Cloudflare R2
+* ffmpeg
 
 
 
