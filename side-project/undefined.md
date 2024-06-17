@@ -6,16 +6,14 @@
 
 ### 기능 소개
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * #### **동네 주민 배달 대행**
   1. 위치 기반으로 같은 동네 주민 인증
   2. 배달 대표(이하 달대표) 를 정하는 미니게임 수행
   3. 수령한 음식을 나눠줄 랜드마크 설정 후 달대표가 음식 수령 및 배부
 
-
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 * **영수증 리뷰**
   1. OCR기술을 활용한 영수증 문자 인식
