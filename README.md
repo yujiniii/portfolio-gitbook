@@ -13,7 +13,7 @@ description: 안녕하세요. 백엔드 개발자 서유진입니다.
 
 ### skills
 
-<table><thead><tr><th width="146"></th><th>Experience</th></tr></thead><tbody><tr><td>node.js</td><td>NestJS, ExpressJS</td></tr><tr><td>languages</td><td>javascript,  typescript</td></tr><tr><td>stores</td><td>MySQL, MariaDB, PostgreSQL, Redis</td></tr><tr><td>ORM</td><td>Sequelize, typeorm</td></tr><tr><td>cloud (AWS)</td><td>AWS EC2, S3, SQS, EventBridge, IAM, ElastiCache, RDS, DynamoDB, Cognito</td></tr><tr><td>libraries</td><td>axios, jwt, passport, openai, lodash, socket.io, expo-server-sdk, AWS SDK, DayJS, nodemailer...</td></tr><tr><td>test</td><td>Jest, artillery</td></tr><tr><td> etc.</td><td>python, php </td></tr></tbody></table>
+<table><thead><tr><th width="146"></th><th>Experience</th></tr></thead><tbody><tr><td>Node.js</td><td>NestJS, ExpressJS</td></tr><tr><td>languages</td><td>javascript,  typescript</td></tr><tr><td>stores</td><td>MySQL, MariaDB, PostgreSQL, Redis</td></tr><tr><td>ORM</td><td>Sequelize, typeorm</td></tr><tr><td>cloud (AWS)</td><td>EC2, S3, SQS, EventBridge, IAM, ElastiCache, RDS, DynamoDB, Cognito, CloudFront, Route53, Elastic Beanstalk..</td></tr><tr><td>cloud (cloudflare)</td><td>stream, R2, Zero Trust, DNS..</td></tr><tr><td>libraries</td><td>axios, jwt, passport, openai, lodash, socket.io, expo-server-sdk, AWS SDK, DayJS, nodemailer, app-store-server-library, googleapis...</td></tr><tr><td>test</td><td>Jest, artillery</td></tr><tr><td> etc.</td><td>python, php </td></tr></tbody></table>
 
 
 

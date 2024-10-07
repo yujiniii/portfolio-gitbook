@@ -1,5 +1,6 @@
 ---
 description: 갑자기 생각날때마다 작업중,,,
+hidden: true
 ---
 
 # morning-letter: 매일 아침 리포트
